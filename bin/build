@@ -1,0 +1,7 @@
+﻿#!/bin/bash
+
+echo "Starting build..."
+
+typst compile "./src/main.typ" "./dist/cv-bishram.pdf"
+
+echo "Build finished..."
