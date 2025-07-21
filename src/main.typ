@@ -88,6 +88,14 @@ I’m a Front-End turned Full-Stack developer with #work-duration years of exper
 - Used CASL to restrict which page a user could view.
 
 #project(
+  name: "Idebku",
+  role: "Full-Stack Web Developer",
+  dates: dates-helper(start-date: "Jan 2025", end-date: "Feb 2025"),
+)
+- Using ASP.NET Core to query data from database.
+- Using ASP.NET MVC to create a view for those data.
+
+#project(
   name: "ROCA Pro",
   role: "Front-End Web Developer",
   dates: dates-helper(start-date: "May 2024", end-date: "Aug 2024"),
