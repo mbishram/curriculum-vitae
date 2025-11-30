@@ -2,6 +2,7 @@
 
 echo "Starting build..."
 
+mkdir "./dist"
 typst compile "./src/main.typ" "./dist/cv-bishram.pdf"
 
 echo "Build finished..."
