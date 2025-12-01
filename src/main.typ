@@ -205,4 +205,4 @@ I’m a Front-End turned Full-Stack developer with #work-duration years of exper
 
 == Skills
 - *Programming Languages*: JavaScript, TypeScript, Ruby, #"C#"
-- *Technologies*: React, NextJs, Remix, SASS, Bootstrap, Tailwind, Pug/Jade, Angular, Ruby on Rails, Docker, Jenkins, Terraform, GCP, AWS
+- *Technologies*: React, NextJs, Remix, SASS, Bootstrap, Tailwind, Pug/Jade, Handlebars, Angular, Ruby on Rails, GSAP, Docker, Jenkins, Terraform, GCP, AWS
