@@ -66,17 +66,12 @@ I’m a Front-End turned Full-Stack developer with #work-duration years of exper
 == Freelance Projects
 
 #project(
-  name: "KSB Day Care Dashboard",
-  role: "Full-Stack Web Developer",
-  dates: dates-helper(start-date: "Sept 2024", end-date: "Present"),
-  url: "daycare.sims-it.biz.id",
+  name: "Fairtech Pte Ltd",
+  role: "Front-End Web Developer",
+  dates: dates-helper(start-date: "Jul 2025", end-date: "Present"),
 )
-- Used Ruby on Rails to develop a web-based dashboard for managing children registrations and daycare data.
-- Added translation (i18n) for Indonesian and English languages.
-- Developed an API for mobile application.
-- Created an API documentation using Swagger.
-- Used Docker Compose to build an application that can be deployed in any environment.
-- Used CloudKilat VPS to deploy the application to a staging environment.
+- Translated design from Figma into reusable and easy-to-maintain UI components.
+- Created a stunning interactive and animated 2D scrolling website using GSAP.
 
 #project(
   name: "KLN HRIS",
@@ -86,6 +81,19 @@ I’m a Front-End turned Full-Stack developer with #work-duration years of exper
 - Developed a web-based HRIS application using React, TypeScript, and MUI components.
 - Managed user's permission using CASL.
 - Used CASL to restrict which page a user could view.
+
+#project(
+  name: "KSB Day Care Dashboard",
+  role: "Full-Stack Web Developer",
+  dates: dates-helper(start-date: "Sep 2024", end-date: "Aug 2025"),
+  url: "daycare.sims-it.biz.id",
+)
+- Used Ruby on Rails to develop a web-based dashboard for managing children registrations and daycare data.
+- Added translation (i18n) for Indonesian and English languages.
+- Developed an API for mobile application.
+- Created an API documentation using Swagger.
+- Used Docker Compose to build an application that can be deployed in any environment.
+- Used CloudKilat VPS to deploy the application to a staging environment.
 
 #project(
   name: "Idebku",
