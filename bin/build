@@ -1,8 +1,8 @@
-﻿#!/bin/bash
+﻿#!/usr/bin/env bash
 
 echo "Starting build..."
 
-mkdir "./dist"
+mkdir "./dist" -p
 typst compile "./src/main.typ" "./dist/cv-bishram.pdf"
 
 echo "Build finished..."

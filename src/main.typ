@@ -72,6 +72,7 @@ I’m a Front-End turned Full-Stack developer with #work-duration years of exper
 )
 - Translated design from Figma into reusable and easy-to-maintain UI components.
 - Created a stunning interactive and animated 2D scrolling website using GSAP.
+- Created a WordPress app using roots Bedrock and roots Sage.
 
 #project(
   name: "KLN HRIS",
@@ -212,5 +213,5 @@ I’m a Front-End turned Full-Stack developer with #work-duration years of exper
 )
 
 == Skills
-- *Programming Languages*: JavaScript, TypeScript, Ruby, #"C#"
+- *Programming Languages*: JavaScript, TypeScript, Ruby, PHP, #"C#"
 - *Technologies*: React, NextJs, Remix, SASS, Bootstrap, Tailwind, Pug/Jade, Handlebars, Angular, Ruby on Rails, GSAP, Docker, Jenkins, Terraform, GCP, AWS
