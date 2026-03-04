@@ -47,123 +47,77 @@
 */
 == Summary
 
-I’m a Front-End turned Full-Stack developer with #work-duration years of experience developing web applications. With my expertise, I’ve helped individuals or businesses develop robust web applications that are easy to use and intuitive. I’ve also used my experience as a DevOps engineer to streamline my workflow so that I can push features faster with fewer bugs.
+Full Stack Developer with #work-duration years of experience developing scalable web application. From designing UX, creating reusable UI component, and creating performant RESTful API using industry standard such as Ruby-on-Rails, WordPress, and React. Proficient in creating Docker container and deploying to a cloud environment, ensuring high availability and environment parity. Passionate about creating a code that are reusable and easy to maintain.
 
-== Work Experiences
+== Technical Skills
+- *Languages & Frameworks*: Ruby on Rails, Ruby, PHP, JavaScript, TypeScript.
+- *Frontend Ecosystem*: React.js, Next.js, Remix, Redux, Roots Sage (Blade), Tailwind CSS, WordPress, GSAP.
+- *Backend & API*: RESTful API Design, Swagger/OpenAPI, Composer, MVC Architecture.
+- *DevOps & Infrastructure*: Docker, Docker Compose, Linux VPS, Jenkins, Terraform, GCP, AWS.
+- *Security & Data*: CASL (Authorization), JWT, PostgreSQL, DatoCMS.
+
+== Professional Experiences
+
+#work(
+  title: "Full-Stack Web Developer",
+  company: "Fairtech Pte Ltd",
+  dates: dates-helper(start-date: "Jul 2025", end-date: "Present"),
+)
+- Developed high-performance Content Management System (CMS) using the Roots Stack (Bedrock & Sage), implementing modern software practices including dependency management via Composer and an MVC architecture.
+- Engineered custom interactive components using GSAP, ensuring high-performance and optimized browser resource management.
+- Integrated Figma design specifications into modular, scalable frontend architectures, maintaining strict adherence to DRY (Don't Repeat Yourself) principles for UI components.
 
 #work(
   title: "Front-End Web Developer",
-  location: "Jakarta, Indonesia (Remote)",
+  company: "PT. Kayan LNG Nusantara",
+  dates: dates-helper(start-date: "Oct 2022", end-date: "Present"),
+)
+- Developed a web-based HRIS application using React, TypeScript, and MUI, focusing on data-heavy administrative workflows.
+- Implemented a Role-Base Access Control (RBAC) system using CASL, securing sensitive employee records based on complex user roles.
+- Optimized client-side state management to handle large datasets using server-side pagination.
+
+#work(
+  title: "Full-Stack Web Developer",
+  company: "KSB Premiere School",
+  dates: dates-helper(start-date: "Sep 2024", end-date: "Aug 2025"),
+)
+- Built a comprehensive daycare management dashboard using Ruby on Rails, centralizing student registration and data tracking.
+- Designed and documented a RESTful API using Swagger, enabling seamless integration for mobile application consumers.
+- Containerized the application stack using Docker Compose, reducing deployment time and ensuring consistent environments across staging and production.
+- Managed end-to-end deployment on CloudKilat VPS, configuring server environments for high reliability.
+
+#work(
+  title: "Front-End Web Developer",
+  company: "Surya Informatika Mandiri Sejahtera",
+  dates: dates-helper(start-date: "May 2024", end-date: "Aug 2024"),
+)
+- Developed a mobile-first web application using Remix, leveraging Server-Side Rendering (SSR) to optimize initial load times and SEO performance.
+- Developed robust server-side data loaders in TypeScript, streamlining the data synchronization flow between the database and the UI.
+- Optimized the client-server bridge by implementing efficient error handling and form validation logic within the Remix framework.
+
+#work(
+  title: "Front-End Web Developer",
   company: "TrustIQ",
   dates: dates-helper(start-date: "Dec 2021", end-date: "Apr 2024"),
 )
-- Maintained a webview-based application using React.
-- Maintained a web-based back office application using React and Angular.
-- Translated client requirements into fully usable features.
-- Collaborated with the back-end developers to integrate API calls.
-- Developed a UI element that is reusable and easy to maintain.
+- Collaborated with backend engineers to define API contracts, optimizing JSON payloads to reduce mobile webview latency.
+- Maintained mission-critical back-office tools using React and Angular, supporting high-volume financial data processing.
+- Developed a shared UI library of reusable components, increasing team development.
 
-== Freelance Projects
-
-#project(
-  name: "Fairtech Pte Ltd",
-  role: "Front-End Web Developer",
-  dates: dates-helper(start-date: "Jul 2025", end-date: "Present"),
+#work(
+  title: "Freelance Software Developer",
+  company: "Self-Employed",
+  dates: dates-helper(start-date: "Mar 2021", end-date: "Mar 2024"),
 )
-- Translated design from Figma into reusable and easy-to-maintain UI components.
-- Created a stunning interactive and animated 2D scrolling website using GSAP.
-- Created a WordPress app using roots Bedrock and roots Sage.
-
-#project(
-  name: "KLN HRIS",
-  role: "Front-End Web Developer",
-  dates: dates-helper(start-date: "Oct 2022", end-date: "Present"),
-)
-- Developed a web-based HRIS application using React, TypeScript, and MUI components.
-- Managed user's permission using CASL.
-- Used CASL to restrict which page a user could view.
-
-#project(
-  name: "KSB Day Care Dashboard",
-  role: "Full-Stack Web Developer",
-  dates: dates-helper(start-date: "Sep 2024", end-date: "Aug 2025"),
-  url: "daycare.sims-it.biz.id",
-)
-- Used Ruby on Rails to develop a web-based dashboard for managing children registrations and daycare data.
-- Added translation (i18n) for Indonesian and English languages.
-- Developed an API for mobile application.
-- Created an API documentation using Swagger.
-- Used Docker Compose to build an application that can be deployed in any environment.
-- Used CloudKilat VPS to deploy the application to a staging environment.
-
-#project(
-  name: "Idebku",
-  role: "Full-Stack Web Developer",
-  dates: dates-helper(start-date: "Jan 2025", end-date: "Feb 2025"),
-)
-- Using ASP.NET Core to query data from database.
-- Using ASP.NET MVC to create a view for those data.
-
-#project(
-  name: "ROCA Pro",
-  role: "Front-End Web Developer",
-  dates: dates-helper(start-date: "May 2024", end-date: "Aug 2024"),
-  url: "m.rocapro.id",
-)
-- Developed a mobile-first web application using Remix, TypeScript, and MUI components.
-- Transformed a UI/UX design from Figma into reusable and easy-to-maintain UI elements.
-
-#project(
-  name: "WMS Praisindo",
-  role: "Front-End Web Developer",
-  dates: dates-helper(start-date: "Aug 2023", end-date: "Mar 2024"),
-)
-- Developed and maintained a React-based micro front-end web application.
-- Transformed a UI/UX design from Figma into reusable and easy-to-maintain UI elements.
-
-#project(
-  name: "Dinas Pariwisata Pangkep",
-  role: "Full-Stack Web Developer",
-  dates: dates-helper(start-date: "Dec 2021", end-date: "Dec 2021"),
-)
-- Developed a web-based application using React, TypeScript, and Tailwind CSS.
-- Used Figma to create a simple wireframe.
-- Added DatoCMS as a data source to the application.
-
-#project(
-  name: "PAK Dosen Kedokteran Universitas Hasanuddin",
-  role: "Front-End Web Developer",
-  dates: dates-helper(start-date: "Mar 2021", end-date: "Nov 2021"),
-)
-- Developed and designed a web-based PAK reporting application using React and MUI components.
-- Added a feature to export complex nested data to a PDF, which is then compiled into an easy-to-read table.
-
-== Projects
-
-#project(
-  name: "Basic CI/CD Pipeline",
-  role: "Developer",
-  dates: dates-helper(start-date: "Jan 2025", end-date: "Jan 2025"),
-  url: "github.com/mbishram/simple-python-pyinstaller-app",
-)
-- Developed a simple CI/CD pipeline for a Python application.
-- Tech Stack: Terraform, GCP, Jenkins, Prometheus, Grafana, Docker.
-
-#project(
-  name: "Cuberto's Fluid Card",
-  role: "Developer",
-  dates: dates-helper(start-date: "Jul 2021", end-date: "Jul 2021"),
-  url: "cuberto-fluid-card.vercel.app",
-)
-- Developed a web-based fluid card animation that are inspired from Cuberto.
-- Tech Stack: React, AnimeJS, Tailwind CSS, Typescript.
+- Developed and maintained Micro Frontend (MFE) architectures, enabling independent deployment cycles for modular service units (WMS Praisindo).
+- Architected a Headless CMS solution using DatoCMS, designing structured content models and schemas to serve dynamic tourism data via REST APIs (Dinas Pariwisata Pangkep).
+- Built a custom reporting engine to transform complex nested JSON data into structured, easy-to-read PDF documents for medical staff (Fakultas Kedokteran Univ. Hasanuddin).
 
 == Education
 
 #edu(
   institution: "Universitas Hasanuddin",
   location: "Makassar, Indonesia",
-  dates: dates-helper(start-date: "Aug 2017", end-date: "Dec 2023"),
   degree: "Bachelor in Informatics Engineering",
 
   // Uncomment the line below if you want edu formatting to be consistent with everything else
@@ -171,23 +125,6 @@ I’m a Front-End turned Full-Stack developer with #work-duration years of exper
 )
 - GPA: 3.60/4.0 (Transcript)
 - Thesis: Improving Web Application Security by Storing JSON Web Token in Local Variable
-
-// == Extracurricular Activities
-
-// #extracurriculars(
-//   activity: "Capture The Flag Competitions",
-//   dates: dates-helper(start-date: "Jan 2021", end-date: "Present"),
-// )
-// - Founder of Les Amateurs (#link("https://amateurs.team")[amateurs.team]), currently ranked \#4 US, \#33 global on CTFTime (2023: \#4 US, \#42 global)
-// - Organized AmateursCTF 2023 and 2024, with 1000+ teams solving at least one challenge and \$2000+ in cash prizes
-//   - Scaled infrastructure using GCP, Digital Ocean with Kubernetes and Docker; deployed custom software on fly.io
-// - Qualified for DEFCON CTF 32 and CSAW CTF 2023, two of the most prestigious cybersecurity competitions globally
-
-// #extracurriculars(
-//   activity: "Science Olympiad Volunteering",
-//   dates: "Sep 2023 --- Present"
-// )
-// - Volunteer and write tests for tournaments, including LA Regionals and SoCal State \@ Caltech
 
 == Certifications
 
@@ -211,7 +148,3 @@ I’m a Front-End turned Full-Stack developer with #work-duration years of exper
   url: "dicoding.com/certificates/1RXYEOMV9ZVM",
   date: "Jul 2021",
 )
-
-== Skills
-- *Programming Languages*: JavaScript, TypeScript, Ruby, PHP, #"C#"
-- *Technologies*: React, NextJs, Remix, SASS, Bootstrap, Tailwind, Pug/Jade, Handlebars, Angular, Ruby on Rails, GSAP, Docker, Jenkins, Terraform, GCP, AWS
